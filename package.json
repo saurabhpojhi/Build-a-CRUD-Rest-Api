@@ -1,0 +1,26 @@
+{
+  "name": "build-a-crud-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhpojhi/Build-a-CRUD-Rest-Api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "rest",
+    "api"
+  ],
+  "author": "Saurabh Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabhpojhi/Build-a-CRUD-Rest-Api/issues"
+  },
+  "homepage": "https://github.com/saurabhpojhi/Build-a-CRUD-Rest-Api#readme"
+}
