@@ -2,6 +2,7 @@ const express = require("express");
 const cors = require("cors");
 const app = express();
 
+require("./routes/tutorial.routes")(app);
 // set port, listen for requests
 const PORT = process.env.PORT || 3000;
 
