@@ -7,4 +7,5 @@ db.mongoose = mongoose;
 db.url = dbConfig.url;
 db.tutorials = require("./")(mongoose);
 
+
 module.exports = db;
