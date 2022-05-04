@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/saurabhpojhi/Build-a-CRUD-Rest-Api#readme",
   "dependencies": {
+    "body-parser": "^1.20.0",
     "cors": "^2.8.5",
     "express": "^4.18.1",
     "mongoose": "^6.3.2"
